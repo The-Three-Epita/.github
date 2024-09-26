@@ -1,29 +1,16 @@
+![logo_no_bg](https://github.com/user-attachments/assets/ed65db90-4eb7-4e78-aa71-ae0b1a181315)
 
-[logo_no_bg](https://github.com/user-attachments/assets/e514adef-8d7f-473e-9af9-1b5747557ede)
+# The Tree
 
-#  The Tree
+## What is it?
 
+In this thrilling 2D platformer, players take on the role of monkeys with unique designs, climbing a massive tree to reach the top. The task won't be simple: you'll have to face forest animals like eagles and tigers while staying connected to your teammates by a chain. This mechanic adds an extra layer of difficulty: if one player falls, everyone can fall!
 
-## What is it?!
+Your goal is to climb the tree as quickly as possible. Whether you're playing solo or in cooperation (up to 4 players), the challenge is significant. Master attacks like fireballs to defeat your enemies, and be careful not to fall! An online leaderboard will showcase the best times.
 
-
-- Discover a free application, currently available exclusively in France, designed to assess your high school, from its infrastructure to various other aspects. With this innovative platform, participate in the ascent of your high school to the top of the rankings, aiming to crown it the best high school in France. 
-
-- Enjoy a modern and free educational hub to share your experiences and contribute to the improvement of education in your institution.
-
-
-
-
-## 🗃️ Authors
-
-- [@HazeLdevgggg](https://github.com/HazeLdevgggg)
-- [@kwikysw](https://github.com/kwikysw)
-
-## 📷 Join Our Beta...
-
-https://schoolrate.org/beta
-
-## 🖥️ License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
+##  Authors
+Louis Garric
+Emmanuel
+Jean Cha-Rouge
+Alois Bourret
+Antoine Arnould
